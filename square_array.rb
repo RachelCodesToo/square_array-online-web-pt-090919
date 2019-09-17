@@ -4,6 +4,6 @@ def square_array(array)
   
 end
 
-#def square_array(array)
-  #numbers.each do 
-#end
+def square_array(array)
+  numbers.each do 
+end
