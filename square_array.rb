@@ -6,5 +6,5 @@ end
 
 def square_array(array)
   numbers.each do |i|
-    i ** i
+    i * i
 end
