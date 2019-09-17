@@ -6,7 +6,8 @@ end
 
 def square_array(array)
   numbers = [1,2 3]
-  numbers.
+  numbers.each{|numbers|}
+  
 
 end
 
