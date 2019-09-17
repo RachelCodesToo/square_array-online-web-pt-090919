@@ -1,3 +1,9 @@
 def square_array(array)
-  # your code here
+  numbers = [1,2,3]
+  numbers.collect{|numbers|}
+  
 end
+
+#def square_array(array)
+  #numbers.each do 
+#end
