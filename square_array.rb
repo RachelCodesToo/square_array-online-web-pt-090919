@@ -1,6 +1,7 @@
 def square_array(array)
   numbers = [1,2,3]
   numbers.collect{|numbers|}
+  square_array
   
 end
 
