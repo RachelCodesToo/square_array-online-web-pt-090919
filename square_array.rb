@@ -9,9 +9,9 @@ end
   #numbers.each{|numbers|}
 #end
 
-def square_array(array)
-  i = [1,2,3]
-  numbers.each do |i|
-    i * i
-  end
-end
+#def square_array(array)
+ # i = [1,2,3]
+  #numbers.each do |i|
+   # i * i
+#  end
+#end
